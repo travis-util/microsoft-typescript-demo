@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-typescript-demo",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "typescript": "^2.8.1"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
