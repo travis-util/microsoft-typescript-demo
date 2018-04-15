@@ -4,3 +4,6 @@
 ## Documentation
 * [*Quick start* (Tutorial)](https://www.typescriptlang.org/docs/tutorial.html)
 * [*TypeScript*](https://en.wikipedia.org/wiki/TypeScript)
+
+## Libraries
+* [*TypeScript Standard Template Library*](https://www.npmjs.com/package/tstl)
