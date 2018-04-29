@@ -2,8 +2,14 @@
 
 [![NPM](https://nodei.co/npm/typescript.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/search?q=typescript)
 
+## Status
+* Example can compile but *cannot be executed*!
+
 ## Documentation
 * [*Quick start* (Tutorial)](https://www.typescriptlang.org/docs/tutorial.html)
+* http://www.typescriptlang.org/samples/index.html for node specificities
+  * https://github.com/Microsoft/TypeScript-Node-Starter#configuring-typescript-compilation
+* [*Using Typescript with Node JS*](https://inviqa.com/blog/using-typescript-node-js)
 * [*TypeScript*](https://en.wikipedia.org/wiki/TypeScript)
 
 ## Libraries
