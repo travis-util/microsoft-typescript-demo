@@ -3,8 +3,9 @@ node_js:
   - node
 
 script:
-- yarn run tsc greeter.ts && node greeter.js
+- yarn run tsc greeter.ts
 # --module commonjs 
+- if $? then ; node greeter.js; fi
 
 after_script:
 - cat greeter.js
