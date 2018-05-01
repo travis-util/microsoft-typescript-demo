@@ -3,7 +3,7 @@
 [![NPM](https://nodei.co/npm/typescript.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/search?q=typescript)
 
 ## Status
-* Example can compile but *cannot be executed*!
+* Normal
 
 ## Documentation
 * [*Quick start* (Tutorial)](https://www.typescriptlang.org/docs/tutorial.html)
