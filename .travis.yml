@@ -5,7 +5,7 @@ node_js:
 script:
 - yarn run tsc greeter.ts
 # --module commonjs 
-- if $? then ; node greeter.js; fi
+- if $? ; then node greeter.js; fi
 
 after_script:
 - cat greeter.js
